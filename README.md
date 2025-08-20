@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hira Faisal</h1>
 <h3 align="center">Software Engineer</h3>
 
-- 🌱 I’m currently learning **Back-End Development with .NET** (C#, .NET Core, Web APIs, and SQL Server) to build scalable and secure applications.**
+- 🌱 I’m currently learning **Back-End Development with .NET** (C#, .NET Core, Web APIs, and SQL Server) to build scalable and secure applications.
 
 - 💬 Ask me about **- .NET / C# - HTML, CSS, JavaScript - React.js - WordPress**
 
